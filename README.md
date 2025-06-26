@@ -84,15 +84,6 @@
 |<strong>[파일 컨버터](https://github.com/woorifisa-projects-3rd/WithBeeTravel-BE)<strong>|캐드파일 → PNG, JPG, PDF<br>변환 서비스|2024.12 ~ 2024.06|캐디안|<strong>사내 프로젝트<strong>|
 |<strong>[헬프 센터](https://github.com/woorifisa-projects-3rd/WithBeeTravel-BE)<strong>|도움말, 가이드, 자주 묻는 질문, 문제 해결 방법<br>제공 서비스|2024.12 ~ 2024.06|캐디안|<strong>사내 프로젝트<strong>|
 
-<!-- 알고리즘 역량 -->
-## ⚙️ Algorithm
-- 2024.08 ~ 2025.02 <strong>알고리즘 스터디 운영 - [알고리즘 지옥](https://github.com/SeungAh-Yoo99/Hell-of-Algorithms)</strong>
-- 2024.08.18 <strong>PCCP Lv2|580점 - programmers</strong>
-- 2024.02.17 <strong>삼성 SW역량테스트 Level B - 삼성전자</strong>
-
-<!-- solved.ac 프로필 -->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysa8497)](https://solved.ac/ysa8497)
-
 <!-- 경험 -->
 ## 🏃 Work Experience
 <ul>
