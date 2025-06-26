@@ -81,7 +81,7 @@
 ## 💾 Projects
 |프로젝트|프로젝트설명|기간|주관처|참고|
 |:---:|:---:|:---:|:---:|:---:|
-|<strong>[윗비트래블](https://github.com/woorifisa-projects-3rd/WithBeeTravel-BE)<strong>|여행 공동 지출 관리 및 자동 정산<br>서비스|2024.10 ~ 2024.12|우리FIS<br>아카데미|프로젝트 <strong>우수상<strong>|
+|<strong>[파일 컨버터](https://github.com/woorifisa-projects-3rd/WithBeeTravel-BE)<strong>|캐드파일 → PNG, JPG, PDF<br>변환 서비스|2024.12 ~ 2024.06|캐디안|프로젝트 <strong>사내 프로젝트<strong>|
 |<strong>[Board-collie](https://github.com/S09P31A104/board-collie)<strong>|보드게임 추천 및 튜토리얼 제공<br>서비스|2023.10 ~ 2023.11|삼성 청년<br>SW 아카데미||
 |<strong>[TikTagTalk](https://github.com/Under-Dog-s-Rebellion/TikTagTalk)<strong>|소비습관 분석 SNS 융합<br>핀테크 서비스|2023.08 ~ 2023.10|삼성 청년<br>SW 아카데미||
 |<strong>[개밥바라기](https://github.com/Gaebab-Baragi/GaeBabBaragi)<strong>|반려견 수제 간식 레시피 제공<br>웹 서비스|2023.07 ~ 2023.08|삼성 청년<br>SW 아카데미|SSAFY 공통프로젝트<br>UCC경진대회<br><strong>[입상](https://youtu.be/SR19uOLr5lc)</strong>(전체 9위)|
