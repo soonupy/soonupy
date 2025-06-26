@@ -81,12 +81,8 @@
 ## 💾 Projects
 |프로젝트|프로젝트설명|기간|주관처|참고|
 |:---:|:---:|:---:|:---:|:---:|
-|<strong>[파일 컨버터](https://github.com/woorifisa-projects-3rd/WithBeeTravel-BE)<strong>|캐드파일 → PNG, JPG, PDF<br>변환 서비스|2024.12 ~ 2024.06|캐디안|프로젝트 <strong>사내 프로젝트<strong>|
-|<strong>[Board-collie](https://github.com/S09P31A104/board-collie)<strong>|보드게임 추천 및 튜토리얼 제공<br>서비스|2023.10 ~ 2023.11|삼성 청년<br>SW 아카데미||
-|<strong>[TikTagTalk](https://github.com/Under-Dog-s-Rebellion/TikTagTalk)<strong>|소비습관 분석 SNS 융합<br>핀테크 서비스|2023.08 ~ 2023.10|삼성 청년<br>SW 아카데미||
-|<strong>[개밥바라기](https://github.com/Gaebab-Baragi/GaeBabBaragi)<strong>|반려견 수제 간식 레시피 제공<br>웹 서비스|2023.07 ~ 2023.08|삼성 청년<br>SW 아카데미|SSAFY 공통프로젝트<br>UCC경진대회<br><strong>[입상](https://youtu.be/SR19uOLr5lc)</strong>(전체 9위)|
-|<strong>[고객 소비 패턴<br>분석](https://youtu.be/iL6BW8J8apI)<strong>|고객 소비 데이터 분석<br>및<br>대시보드 제작|2021.05 ~ 2021.05|엘라스틱서치코리아,<br>상명대학교|Elastic Training Program<br>팀 프로젝트 대회<br> <strong>표창장</strong>|
-|<strong>[summicles](https://github.com/NoPain-NoCode/summicles)<strong>|뉴스 기사 세 줄 요약 페이지|2021.01 ~ 2021.02|상명대학교|2020-겨울학기 상생플러스|
+|<strong>[파일 컨버터](https://github.com/woorifisa-projects-3rd/WithBeeTravel-BE)<strong>|캐드파일 → PNG, JPG, PDF<br>변환 서비스|2024.12 ~ 2024.06|캐디안|<strong>사내 프로젝트<strong>|
+|<strong>[헬프 센터](https://github.com/woorifisa-projects-3rd/WithBeeTravel-BE)<strong>|도움말, 가이드, 자주 묻는 질문, 문제 해결 방법<br>제공 서비스|2024.12 ~ 2024.06|캐디안|<strong>사내 프로젝트<strong>|
 
 <!-- 알고리즘 역량 -->
 ## ⚙️ Algorithm
@@ -100,10 +96,11 @@
 <!-- 경험 -->
 ## 🏃 Experiences
 <ul>
-  <li>2024.07 ~ 2024.12 <strong>우리에프아이에스 아카데미(우리FISA) 3기 - 우리에프아이에스</strong></li>
-  <li>2023.01 ~ 2023.12 <strong>삼성 청년 SW 아카데미(SSAFY) 9기 - 삼성전자</strong></li>
-  <li>2021.02 ~ 2021.02 <strong>Elasticsearch Training - 엘라스틱서치코리아, 상명대학교</strong></li>
-  <li>2018.03 ~ 2022.02 <strong>상명대학교 SW융합학부 컴퓨터과학전공</strong></li>
+  <li>2024.07 ~ 2024.12 <strong>㈜캐디안 클라우드플랫폼팀 주임</strong></li>
+  <li>2023.01 ~ 2023.12 <strong>㈜삼안 경영지원본부 디자인팀 사원</strong></li>
+  <li>2021.03 ~ 2022.09 <strong>㈜구랩 웹디자인팀 주임</strong></li>
+  <li>2019.12 ~ 2021.02 <strong>하나컴퓨터학원 GTQ자격증 강사</strong></li>
+  <li>2016.03 ~ 2019.02 <strong>백제예술대학교 실내디자인과 전공</strong></li>
 </ul>
 
 <!-- 자격증 -->
