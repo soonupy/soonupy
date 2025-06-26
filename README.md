@@ -7,7 +7,7 @@
 <p align='center'><strong>📧Contact</strong></p>
 <p align='center'>
   <!-- gmail -->
-  <img src="https://img.shields.io/badge/soonupy@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/soonupy@naver.com-%2303C75A?style=flat-square&logo=naver&logoColor=white"/>
   <!-- Surfit -->
   <a href="https://my.surfit.io/w/1523758621"><img src="https://img.shields.io/badge/Surfit-000000?style=flat-square&logoColor=white"/></a>
 </p>
@@ -31,26 +31,36 @@
 
 <!-- 기술 스택 -->
 ## 💻 Tech Stacks
-<!-- Backend -->
-<p>
-  <img src="https://img.shields.io/badge/Java-b07219?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-</p>
 <!-- Frontend -->
+
+<!-- Using Tools -->
+🛠️ Currently Using
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+</p>
+
+🎨 Design Tools
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>
+</p>
+
+<!-- Todo Tools -->
+🌱 Learning Soon
+<p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 </p>
-<!-- Tools -->
+
+<!-- ETC Tools -->
+📦 DevOps & Workflow
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -63,7 +73,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soonupy&layout=compact&theme=algolia)
 
 <!-- GitHub Stats Card -->
-[![SeungAh-Yoo99's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungAh-Yoo99&show_icons=true&theme=tokyonight)](https://github.com/SeungAh-Yoo99/github-readme-stats)
+<!--  [![SeungAh-Yoo99's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungAh-Yoo99&show_icons=true&theme=tokyonight)](https://github.com/SeungAh-Yoo99/github-readme-stats) -->
 
 <!-- 프로젝트 -->
 ## 💾 Projects
