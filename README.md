@@ -1,18 +1,13 @@
-## Hi there 👋
-
-<!-- Github Stats -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soonupy&layout=compact&theme=algolia)
-
 <!-- header -->
 <p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+SeungAh's+Github!👋&fontSize=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+soonupy's+Github!👋&fontSize=40"/>
 </p>
 
 <!-- Contact badge -->
 <p align='center'><strong>📧Contact</strong></p>
 <p align='center'>
   <!-- gmail -->
-  <img src="https://img.shields.io/badge/ysa8497@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/soonupy@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   <!-- Surfit -->
   <a href="https://my.surfit.io/w/1523758621"><img src="https://img.shields.io/badge/Surfit-000000?style=flat-square&logoColor=white"/></a>
 </p>
@@ -28,10 +23,10 @@
 </p>
 
 <!-- 소개글 -->
-<p align='center'>
+<p align="center">
   안녕하세요,<br>
-  😎개발하며 고통 받는 것을 즐길 줄 아는😎<br>
-  <strong>신입 개발자 유승아입니다.</strong>
+  😎 사용자 경험을 설계하고, 코드로 구현하는 😎<br>
+  <strong>리액트 퍼블리셔 권순우입니다. </strong>
 </p>
 
 <!-- 기술 스택 -->
@@ -65,7 +60,7 @@
 </p>
 
 <!-- 사용한 언어 순위 카드 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungAh-Yoo99&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soonupy&layout=compact&theme=algolia)
 
 <!-- GitHub Stats Card -->
 [![SeungAh-Yoo99's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungAh-Yoo99&show_icons=true&theme=tokyonight)](https://github.com/SeungAh-Yoo99/github-readme-stats)
