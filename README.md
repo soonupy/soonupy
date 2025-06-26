@@ -6,10 +6,8 @@
 <!-- Contact badge -->
 <p align='center'><strong>📧Contact</strong></p>
 <p align='center'>
-  <!-- gmail -->
-  <img src="https://img.shields.io/badge/soonupy@naver.com-%2303C75A?style=flat-square&logo=naver&logoColor=white"/>
-  <!-- Surfit -->
-  <a href="https://my.surfit.io/w/1523758621"><img src="https://img.shields.io/badge/Surfit-000000?style=flat-square&logoColor=white"/></a>
+  <!-- Mail -->
+  <a href="mailto:soonupy@naver.com"><img src="https://img.shields.io/badge/soonupy97@naver.com-%2303C75A?style=flat-square&logo=naver&logoColor=white"/></a>
 </p>
 <!-- About me badge -->
 <p align='center'><strong>👋About me</strong></p>
@@ -34,7 +32,7 @@
 <!-- Frontend -->
 
 <!-- Using Tools -->
-🛠️ Currently Using
+🛠️ Development Tools
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
@@ -67,10 +65,14 @@
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0053CC?style=flat-square&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-F0DB4F?style=flat-square&logo=vite&logoColor=black"/>
 </p>
 
 <!-- 사용한 언어 순위 카드 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soonupy&layout=compact&theme=algolia)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soonupy&layout=compact&theme=algolia) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soonupy&layout=compact&theme=dark&langs_count=10)
+
 
 <!-- GitHub Stats Card -->
 <!--  [![SeungAh-Yoo99's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungAh-Yoo99&show_icons=true&theme=tokyonight)](https://github.com/SeungAh-Yoo99/github-readme-stats) -->
