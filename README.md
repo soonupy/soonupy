@@ -94,10 +94,10 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysa8497)](https://solved.ac/ysa8497)
 
 <!-- 경험 -->
-## 🏃 Experiences
+## 🏃 Work Experience
 <ul>
-  <li>2024.07 ~ 2024.12 <strong>㈜캐디안 클라우드플랫폼팀 주임</strong></li>
-  <li>2023.01 ~ 2023.12 <strong>㈜삼안 경영지원본부 디자인팀 사원</strong></li>
+  <li>2024.04 ~ <strong>㈜캐디안 클라우드플랫폼팀 주임</strong></li>
+  <li>2022.10 ~ 2022.10 <strong>㈜삼안 경영지원본부 디자인팀 사원</strong></li>
   <li>2021.03 ~ 2022.09 <strong>㈜구랩 웹디자인팀 주임</strong></li>
   <li>2019.12 ~ 2021.02 <strong>하나컴퓨터학원 GTQ자격증 강사</strong></li>
   <li>2016.03 ~ 2019.02 <strong>백제예술대학교 실내디자인과 전공</strong></li>
@@ -106,9 +106,9 @@
 <!-- 자격증 -->
 ## 📜 Certificates
 <ul>
-  <li>2024.06.21 <strong>SQL 개발자(SQLD) - 한국데이터산업진흥원</strong></li>
-  <li>2024.06.18 <strong>정보처리기사 - 한국산업인력공단</strong></li>
-  <li>2023.09.13 <strong>OPIc(English) IM1 - ACTFL</strong></li>
-  <li>2022.09.03 <strong>Microsoft Certified: Azure Fundamentals(AZ-900) - Microsoft</strong></li>
+  <li>2024.06.21 <strong>GTQ포토샵1급 - 한국생산성본부</strong></li>
+  <li>2024.06.21 <strong>GTQ일러스트1급 - 한국생산성본부</strong></li>
+  <li>2024.06.21 <strong>컴퓨터활용능력2급 - 한국산업인력공단</strong></li>
+  <li>2024.06.21 <strong>컴퓨터그래픽스운용기능사 - 한국산업인력공단</strong></li>
 </ul>
 
