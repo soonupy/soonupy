@@ -42,13 +42,6 @@
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
 </p>
 
-🎨 Design Tools
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>
-</p>
-
 <!-- Todo Tools -->
 🌱 Learning Soon
 <p>
@@ -57,17 +50,40 @@
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 </p>
 
+<!-- Design Tools -->
+🎨 Design Tools
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>
+</p>
+
+<!-- AI Tools -->
+✨ AI
+<p>
+  <img src="https://img.shields.io/badge/Cursor%20AI-27272A?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude%20AI-FF6F00?style=flat&logo=anthropic&logoColor=white"/>
+</p>
+
 <!-- ETC Tools -->
-📦 DevOps & Workflow
+📦 DevOps
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0053CC?style=flat-square&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-F0DB4F?style=flat-square&logo=vite&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=sourcetree&logoColor=white"/>
 </p>
+
+🧩 Workflow
+<p>
+  <img src="https://img.shields.io/badge/Jira-0053CC?style=flat-square&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NAVER%20Works-03C75A?style=flat&logo=naver&logoColor=white"/>
+</p>
+
 
 <!-- 사용한 언어 순위 카드 -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soonupy&layout=compact&theme=algolia) -->
@@ -79,10 +95,11 @@
 
 <!-- 프로젝트 -->
 ## 💾 Projects
-|프로젝트|프로젝트설명|기간|주관처|참고|
+|프로젝트|프로젝트설명|기간|소속|비고|
 |:---:|:---:|:---:|:---:|:---:|
-|<strong>[파일 컨버터](https://github.com/woorifisa-projects-3rd/WithBeeTravel-BE)<strong>|캐드파일 → PNG, JPG, PDF<br>변환 서비스|2024.12 ~ 2024.06|캐디안|<strong>사내 프로젝트<strong>|
-|<strong>[헬프 센터](https://github.com/woorifisa-projects-3rd/WithBeeTravel-BE)<strong>|도움말, 가이드, 자주 묻는 질문, 문제 해결 방법<br>제공 서비스|2024.12 ~ 2024.06|캐디안|<strong>사내 프로젝트<strong>|
+|<strong>[File Converter](https://converter.cadian.com/)<strong>|캐드파일 → PNG, JPG, PDF<br>변환 서비스|2024.12 ~ 2024.06|캐디안|<strong>사내 프로젝트<strong>|
+|<strong>[Help Center](https://help.cadian.com/ko/)<strong>|도움말, 가이드, 자주 묻는 질문, 문제 해결 방법<br>제공 서비스|2024.12 ~ 2024.06|캐디안|<strong>사내 프로젝트<strong>|
+|<strong>[Waggle Waggle](https://wagglewaggle.netlify.app/)<strong>|한글날 맞이 순 우리말 방명록<br>제공 서비스|2024.05 ~ 2024.10|Waggle Waggle|<strong>사이드 프로젝트<strong>|
 
 <!-- 경험 -->
 ## 🏃 Work Experience
@@ -97,9 +114,10 @@
 <!-- 자격증 -->
 ## 📜 Certificates
 <ul>
-  <li>2024.06.21 <strong>GTQ포토샵1급 - 한국생산성본부</strong></li>
-  <li>2024.06.21 <strong>GTQ일러스트1급 - 한국생산성본부</strong></li>
-  <li>2024.06.21 <strong>컴퓨터활용능력2급 - 한국산업인력공단</strong></li>
-  <li>2024.06.21 <strong>컴퓨터그래픽스운용기능사 - 한국산업인력공단</strong></li>
+  <li>2022.08 <strong>컴퓨터활용능력2급 - 한국산업인력공단</strong></li>
+  <li>2020.12 <strong>GTQ일러스트1급 - 한국생산성본부</strong></li>
+  <li>2020.11 <strong>ITQ Master - 한국생산성본부</strong></li>
+  <li>2020.02 <strong>GTQ포토샵1급 - 한국생산성본부</strong></li>
+  <li>2015.07 <strong>컴퓨터그래픽스운용기능사 - 한국산업인력공단</strong></li>
 </ul>
 
