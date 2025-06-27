@@ -1,6 +1,6 @@
 <!-- header -->
 <p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+soonupy's+Github!👋&fontSize=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=240&section=header&text=Welcome+to+soonupy's+Github!👋&fontSize=32"/>
 </p>
 
 <!-- Contact badge -->
