@@ -89,7 +89,6 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soonupy&layout=compact&theme=algolia) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soonupy&layout=compact&theme=dark&langs_count=10)
 
-
 <!-- GitHub Stats Card -->
 <!--  [![SeungAh-Yoo99's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungAh-Yoo99&show_icons=true&theme=tokyonight)](https://github.com/SeungAh-Yoo99/github-readme-stats) -->
 
@@ -105,6 +104,20 @@
 |<strong>[sd_haru_camping](https://haru-auto-camping.imweb.me/)<strong>|캠핑장 소개 및 예약 안내 서비스|2025.04 ~ 현재|Soonupy|<strong>아웃소싱<strong>|
 |<strong>[Web CAD](https://help.cadian.com/ko/)<strong>|클라우드 기반 CAD 웹 서비스|2025.03 ~ 현재|캐디안|<strong>사내 프로젝트<strong>|
 |<strong>[DDUI-DDUI](https://www.dduiddui.kr/)<strong>|반려견 산책 지수 기반 날씨 제공 웹서비스|2025.05 ~ 2025.07|DDUI-DDUI|<strong>사이드 프로젝트<strong>|
+
+<!-- 사용 기술 스택 -->
+### 🧠 I’ve worked with
+
+| 기술 | 로고 | 주요 사용 목적 |
+|------|------|----------------|
+| HTML5 | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | 시맨틱 마크업, 웹 표준 |
+| CSS3 / SCSS | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white) | 반응형 레이아웃, 스타일링 |
+| JavaScript | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | 인터랙션 구현, DOM 제어 |
+| TypeScript | ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | 타입 안정성 있는 컴포넌트 개발 |
+| React | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | UI 컴포넌트 구조 설계 |
+| Figma | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) | 디자인 시안 확인 및 추출 |
+| Photoshop / Illustrator | ![PS](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white) ![AI](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white) | 이미지 편집, 아이콘 제작 |
+| Git / GitHub | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) | 협업, 버전 관리 |
 
 <!-- 경험 -->
 ## 🏃 Work Experience
