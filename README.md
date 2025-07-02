@@ -96,16 +96,18 @@
 ## 💾 Projects
 |프로젝트|프로젝트설명|기간|소속|비고|
 |:---:|:---:|:---:|:---:|:---:|
-|<strong>[CADian Web](https://converter.cadian.com/)<strong>|홈페이지 리뉴얼|2024.04 ~ 현재|캐디안|<strong>사내 프로젝트<strong>|
+|<strong>[CADian Renewal](https://converter.cadian.com/)<strong>|홈페이지 리뉴얼|2024.04 ~ 현재|캐디안|<strong>사내 프로젝트<strong>|
 |<strong>[Waggle Waggle](https://wagglewaggle.netlify.app/)<strong>|한글날 맞이 순우리말 방명록 서비스|2024.05 ~ 2024.10|Waggle Waggle|<strong>사이드 프로젝트</strong>|
 |<strong>[File Manager](https://file.cadian.com/)<strong>|클라우드 파일관리자|2024.11 ~ 현재|캐디안|<strong>사내 프로젝트<strong>|
 |<strong>[File Converter](https://converter.cadian.com/)<strong>|캐드파일 → PNG, JPG, PDF 변환 서비스|2024.12 ~ 현재|캐디안|<strong>사내 프로젝트<strong>|
 |<strong>[Help Center](https://help.cadian.com/ko/)<strong>|도움말과 FAQ를 포함한 사용자 지원 서비스|2025.01 ~ 현재|캐디안|<strong>사내 프로젝트<strong>|
-|<strong>[sd_haru_camping](https://haru-auto-camping.imweb.me/)<strong>|캠핑장 소개 및 예약 안내 서비스|2025.04 ~ 현재|Soonupy|<strong>아웃소싱<strong>|
-|<strong>[Web CAD](https://help.cadian.com/ko/)<strong>|클라우드 기반 CAD 웹 서비스|2025.03 ~ 현재|캐디안|<strong>사내 프로젝트<strong>|
+|<strong>[sd_haru_camping](https://haru-auto-camping.imweb.me/)<strong>|캠핑장 소개 및 예약 안내 서비스|2025.02 ~ 현재|Soonupy|<strong>아웃소싱<strong>|
+|<strong>[WebCAD](https://help.cadian.com/ko/)<strong>|클라우드 기반 WebCAD 서비스|2025.03 ~ 현재|캐디안|<strong>사내 프로젝트<strong>|
+|<strong>[WebCAD API](https://demo-viewer.cadian.com/API.html)<strong>| WebCAD API Portal |2025.05 ~ 현재|캐디안|<strong>사내 프로젝트<strong>|
 |<strong>[DDUI-DDUI](https://www.dduiddui.kr/)<strong>|반려견 산책 지수 기반 날씨 제공 웹서비스|2025.05 ~ 2025.07|DDUI-DDUI|<strong>사이드 프로젝트<strong>|
 
 <!-- 사용 기술 스택 -->
+<!--
 ### 🧠 I’ve worked with
 
 | 기술 | 로고 | 주요 사용 목적 |
@@ -118,6 +120,7 @@
 | Figma | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) | 디자인 시안 확인 및 추출 |
 | Photoshop / Illustrator | ![PS](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white) ![AI](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white) | 이미지 편집, 아이콘 제작 |
 | Git / GitHub | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) | 협업, 버전 관리 |
+-->
 
 <!-- 경험 -->
 ## 🏃 Work Experience
