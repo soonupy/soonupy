@@ -96,7 +96,7 @@
 ## 💾 Projects
 |프로젝트|프로젝트설명|기간|소속|비고|
 |:---:|:---:|:---:|:---:|:---:|
-|<strong>[DDUI-DDUI](https://www.dduiddui.kr/)<strong>|반려견 산책 지수 기반 날씨 제공 웹서비스|2025.05 ~ 2025.07|DDUI-DDUI|<strong>사이드 프로젝트<strong>|
+|<strong>[DDUI-DDUI](https://www.dduiddui.kr/)<strong>|반려견 산책 지수 기반 날씨 제공 웹서비스|2025.06 ~ 2025.07|DDUI-DDUI|<strong>사이드 프로젝트<strong>|
 |<strong>[Develpers API reference](https://demo-viewer.cadian.com/reference/)<strong>| 개발자센터 API 레퍼런스 서비스 |2025.06 ~ 현재|캐디안|<strong>사내 프로젝트<strong>|
 |<strong>[Develpers API doc](https://demo-viewer.cadian.com/API.html)<strong>| 개발자센터 API 문서 제공 서비스 |2025.05 ~ 현재|캐디안|<strong>사내 프로젝트<strong>|
 |<strong>[WebCAD](https://help.cadian.com/ko/)<strong>|클라우드 기반 WebCAD 서비스|2025.03 ~ 현재|캐디안|<strong>사내 프로젝트<strong>|
