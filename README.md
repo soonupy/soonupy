@@ -97,8 +97,7 @@
 |프로젝트|프로젝트설명|기간|소속|비고|
 |:---:|:---:|:---:|:---:|:---:|
 |<strong>[DDUI-DDUI](https://www.dduiddui.kr/)<strong>|반려견 산책 지수 기반 날씨 제공 웹서비스|2025.06 ~ 2025.07|DDUI-DDUI|<strong>사이드 프로젝트<strong>|
-|<strong>[Develpers API reference](https://demo-viewer.cadian.com/reference/)<strong>| 개발자센터 API 레퍼런스 서비스 |2025.06 ~ 현재|캐디안|<strong>사내 프로젝트<strong>|
-|<strong>[Develpers API doc](https://demo-viewer.cadian.com/API.html)<strong>| 개발자센터 API 문서 제공 서비스 |2025.05 ~ 현재|캐디안|<strong>사내 프로젝트<strong>|
+|<strong>[Developers](https://demo-viewer.cadian.com/API.html)<strong>| 개발자센터 SDK&API 레퍼런스 제공 서비스 |2025.05 ~ 현재|캐디안|<strong>사내 프로젝트<strong>|
 |<strong>[WebCAD](https://help.cadian.com/ko/)<strong>|클라우드 기반 WebCAD 서비스|2025.03 ~ 현재|캐디안|<strong>사내 프로젝트<strong>|
 |<strong>[sd_haru_camping](https://haru-auto-camping.imweb.me/)<strong>|캠핑장 소개 및 예약 안내 서비스|2025.02 ~ 현재|Soonupy|<strong>아웃소싱<strong>|
 |<strong>[Help Center](https://help.cadian.com/ko/)<strong>|도움말과 FAQ를 포함한 사용자 지원 서비스|2025.01 ~ 현재|캐디안|<strong>사내 프로젝트<strong>|
