@@ -102,7 +102,7 @@
 |<strong>[sd_haru_camping](https://haru-auto-camping.imweb.me/)<strong>|캠핑장 소개 및 예약 안내 서비스|2025.02 ~ 현재|Soonupy|<strong>아웃소싱<strong>|
 |<strong>[Help Center](https://help.cadian.com/ko/)<strong>|도움말과 FAQ를 포함한 사용자 지원 서비스|2025.01 ~ 현재|캐디안|<strong>사내 프로젝트<strong>|
 |<strong>[File Converter](https://converter.cadian.com/)<strong>|캐드파일 → PNG, JPG, PDF 변환 서비스|2024.12 ~ 현재|캐디안|<strong>사내 프로젝트<strong>|
-|<strong>[File Manager](https://file.cadian.com/)<strong>|클라우드 파일관리자|2024.11 ~ 현재|캐디안|<strong>사내 프로젝트<strong>|
+|<strong>[File Manager](https://file.cadian.com/)<strong>|클라우드 파일관리자|2024.10 ~ 현재|캐디안|<strong>사내 프로젝트<strong>|
 |<strong>[Waggle Waggle](https://wagglewaggle.netlify.app/)<strong>|한글날 맞이 순우리말 방명록 서비스|2024.05 ~ 2024.10|Waggle Waggle|<strong>사이드 프로젝트</strong>|
 |<strong>[CADian Renewal](https://converter.cadian.com/)<strong>|홈페이지 리뉴얼|2024.04 ~ 현재|캐디안|<strong>사내 프로젝트<strong>|
 
